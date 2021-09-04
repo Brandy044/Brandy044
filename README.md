@@ -1,7 +1,4 @@
-<h3>@Brandy044</h3>
-<Strong>₪</Strong>
-<h3>💻 Estou aprendendo Web Designer.</h3>
-<Strong>₪</Strong>
+
 <h3>📫 Como me encontrar?⬇</h3>
 <h3>Email: bbrandita@gmail.com</h3>
 
