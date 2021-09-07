@@ -1,8 +1,8 @@
+<style>
+Background-color: Blue;
 
-<h3>📫 Como me encontrar?⬇</h3>
-<h3>Email: bbrandita@gmail.com</h3>
-
-
+</style>
+<h3>Brandy</h3>
 <!---
 Brandy044/Brandy044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
